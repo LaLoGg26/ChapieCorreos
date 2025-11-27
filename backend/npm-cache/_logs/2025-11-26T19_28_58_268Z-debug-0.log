@@ -1,0 +1,28 @@
+0 verbose cli C:\nvm4w\nodejs\node.exe C:\nvm4w\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.3
+2 info using node@v22.20.0
+3 silly config load:file:C:\Users\aryed\AppData\Local\nvm\v22.20.0\node_modules\npm\npmrc
+4 silly config load:file:D:\Proyectos\ChapieCorreos\backend\.npmrc
+5 silly config load:file:C:\Users\aryed\.npmrc
+6 silly config load:file:D:\npm-global\etc\npmrc
+7 verbose title npm init
+8 verbose argv "init" "--yes"
+9 verbose logfile logs-max:10 dir:D:\Proyectos\ChapieCorreos\backend\npm-cache\_logs\2025-11-26T19_28_58_268Z-
+10 verbose logfile D:\Proyectos\ChapieCorreos\backend\npm-cache\_logs\2025-11-26T19_28_58_268Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly package data {
+12 silly package data   name: 'backend',
+12 silly package data   version: '1.0.0',
+12 silly package data   description: '',
+12 silly package data   main: 'index.js',
+12 silly package data   scripts: { test: 'echo "Error: no test specified" && exit 1' },
+12 silly package data   keywords: [],
+12 silly package data   author: '',
+12 silly package data   license: 'ISC'
+12 silly package data }
+13 verbose cwd D:\Proyectos\ChapieCorreos\backend
+14 verbose os Windows_NT 10.0.26100
+15 verbose node v22.20.0
+16 verbose npm  v10.9.3
+17 verbose exit 0
+18 info ok

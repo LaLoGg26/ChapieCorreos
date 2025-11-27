@@ -1,0 +1,16 @@
+0 verbose cli C:\nvm4w\nodejs\node.exe C:\nvm4w\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.3
+2 info using node@v22.20.0
+3 silly config load:file:C:\Users\aryed\AppData\Local\nvm\v22.20.0\node_modules\npm\npmrc
+4 silly config load:file:D:\Proyectos\ChapieCorreos\.npmrc
+5 silly config load:file:C:\Users\aryed\.npmrc
+6 silly config load:file:D:\npm-global\etc\npmrc
+7 verbose title npm create vite@latest frontend --templete react
+8 verbose argv "create" "vite@latest" "frontend" "--" "--templete" "react"
+9 verbose logfile logs-max:10 dir:D:\Proyectos\ChapieCorreos\npm-cache\_logs\2025-11-26T19_31_52_039Z-
+10 verbose logfile D:\Proyectos\ChapieCorreos\npm-cache\_logs\2025-11-26T19_31_52_039Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+13 http fetch GET 200 https://registry.npmjs.org/npm 178ms
+14 http fetch GET 200 https://registry.npmjs.org/create-vite 255ms (cache miss)
+15 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
